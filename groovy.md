@@ -107,6 +107,8 @@ Hello PHP World.
 * Grails
   * ruby on rails的なフレームワーク
 
+* Gradle
+  * Makefile や Ant、 Maven のようなビルドシステム
 ---
 
 ## Groovyの歴史
