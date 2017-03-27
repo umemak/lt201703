@@ -108,7 +108,7 @@ Hello PHP World.
   * ruby on rails的なフレームワーク
 
 * Gradle
-  * Makefile や Ant、 Maven のようなビルドシステム
+  * Makefile や Ant、 Maven のようなビルドシステム
 
 ---
 
